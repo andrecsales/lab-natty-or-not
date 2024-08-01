@@ -14,20 +14,20 @@ Prompt para imagem: Chat GPT
 Imagem: Copilot Designer
 
 ## 🧐 Processo de Criação
-Fiz uma breve pesquisa para pegar algumas referências da estátua.
-Elaborei um pequeno prompt no Copilot Designer, mas não fiquei tão satisfeito com o resultado.
-Em razão disso solicitei ao Chat GPT para elaborar um prompt. O prompt gerado precisou ser otimizado por causa da limitação de caracteres do Copilot Designer.
-Inseri o o prompt Copilot Designer por algumas vezes e selecionei as imageis que mais descreveu minha visão da estátua do Colosso de Rodes.
+1. Fiz uma breve pesquisa para pegar algumas referências da estátua.
+2. Elaborei um pequeno prompt no Copilot Designer, mas não fiquei tão satisfeito com o resultado.
+3. Em razão disso solicitei ao Chat GPT para elaborar um prompt. O prompt gerado precisou ser otimizado por causa da limitação de caracteres do Copilot Designer.
+4. Inseri o o prompt Copilot Designer por algumas vezes e selecionei as imageis que mais descreveu minha visão da estátua do Colosso de Rodes.
 
-Prompt no Copilot:
--- Crie uma imagem da reconstrução do Colosso de Rodes. A estátua convida os navegantes a entrar no porto.
+**Prompt no Copilot:**
+- Crie uma imagem da reconstrução do Colosso de Rodes. A estátua convida os navegantes a entrar no porto.
 Resultado: 1
 
-Prompt no ChatGPT:
+**Prompt no ChatGPT:**
 Quero criar uma imagem realista da reconstrução da estátua do Colosso de Rodes. Desejo que o projeto construtivo tenha estruturas e que a postura da estátua seja um convite para os navegantes acessar o porto.
 Funcione como um engenheiro de prompt e elabore um prompt para uma aplicação baseada em inteligência artificial que será responsável por criar a imagem.
 
-Resultado:
+- Resultado:
 Crie uma imagem realista de uma reconstrução moderna do Colosso de Rodes, localizada na entrada de um porto movimentado. A estátua deve ter uma postura imponente e acolhedora, como se estivesse saudando os navegantes que entram no porto. O Colosso deve estar de pé, com uma perna à frente e os braços estendidos, um em direção ao céu e outro apontando para o horizonte. A expressão facial deve transmitir força e proteção.
 
 Incorpore detalhes arquitetônicos e estruturais modernos, como suportes internos visíveis em algumas partes da estátua, mas mantenha o estilo da antiga Grécia. A superfície da estátua deve ser de bronze, com sinais de desgaste natural que indiquem o impacto do tempo e do ambiente marítimo.
@@ -37,7 +37,7 @@ O ambiente ao redor deve incluir elementos como embarcações antigas e modernas
 O prompt precisa ser um pouco mais  curto.
 Crie uma imagem realista da reconstrução moderna do Colosso de Rodes, localizado na entrada de um porto. A estátua deve estar em uma postura imponente e acolhedora, com uma perna à frente e um braço apontando para o horizonte, como se estivesse saudando os navegantes. Mantenha o estilo grego antigo com detalhes estruturais modernos visíveis. A superfície de bronze deve mostrar sinais de desgaste natural. O cenário deve incluir embarcações e o mar ao entardecer, com a luz do sol destacando a estátua
 
-Resultado: Imagens 2.
+_Resultado:_ Imagens 2.
 
 
 ## 🚀 Resultados
