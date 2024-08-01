@@ -44,6 +44,9 @@ Resultado: Imagens 2.
 As imagens abaixo:
 
 ![Imagem1](https://github.com/user-attachments/assets/9ff24595-f83f-44e6-8eb4-75560a2d6b48)
+![img1](https://github.com/user-attachments/assets/55eff919-9b54-49d1-82d7-40ca333a0f0a)
+
+
 ![Imagem2.a](https://github.com/user-attachments/assets/cb943bc9-81ea-403f-b088-3cc1b6ec3903)
 ![Imagem2.b](https://github.com/user-attachments/assets/2b9e861b-0d54-4f67-9e6b-e479dd904a82)
 
