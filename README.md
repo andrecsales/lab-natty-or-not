@@ -48,8 +48,6 @@ As imagens abaixo:
 ![Imagem2.a](https://github.com/user-attachments/assets/cb943bc9-81ea-403f-b088-3cc1b6ec3903)
 ![Imagem2.b](https://github.com/user-attachments/assets/2b9e861b-0d54-4f67-9e6b-e479dd904a82)
 
-<img src="https://github.com/user-attachments/assets/2b9e861b-0d54-4f67-9e6b-e479dd904a82" alt="imag2b">
-
 ## 💭 Reflexão
 As ferramentas disponíveis podem potencializar nossas capacidades humanas, bem como gerar ideias de projetos que podem ser executados no futuro.
 
